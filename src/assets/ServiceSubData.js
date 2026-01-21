@@ -1,4 +1,4 @@
-// src/Assets/ServiceData.js
+// src/assets/ServiceData.js
 export const servicessubData = [
   {
     category: "Printing Services",
