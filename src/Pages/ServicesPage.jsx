@@ -2,7 +2,7 @@
 // import { useState } from "react";
 // import CategorySection from "../Components/CategorySection";
 // import CategorySidebar from "../Components/CategorySidebar";
-// import { servicesData } from "../Assets/ServiceData";
+// import { servicesData } from "../assets/ServiceData";
 
 // const ServicesPage = () => {
 //   const categories = servicesData.map((item) => item.category);
@@ -59,7 +59,7 @@ import { useState, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import CategorySection from "../Components/CategorySection";
 import CategorySidebar from "../Components/CategorySidebar";
-import { servicesData } from "../Assets/ServiceData";
+import { servicesData } from "../assets/ServiceData";
 
 const ServicesPage = () => {
   const categories = servicesData.map((item) => item.category);

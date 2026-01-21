@@ -7,18 +7,19 @@ import { useNavigate } from "react-router-dom";
 
 
 import VTLogo from "../../public/VT_LogoTSC.png";
-import ArrowDown from "../Assets/next_W.png";
-import Search from "../Assets/search.png";
-import Cart from "../Assets/cart1.png";
-import Delivery from "../Assets/delivery.png";
-import BStar from "../Assets/BStar.png";
-import Seven from "../Assets/Seven.png";
-import Photo from "../Assets/picture.png";
-import Tote from "../Assets/tote.png";
-import Ticket from "../Assets/tickets.png";
-import Billboard from "../Assets/billboard.png";
-import Stamps from "../Assets/stamp.png";
-import Wedding from "../Assets/wedding.png";
+import ArrowDown from "../assets/next_W.png";
+import Search from "../assets/search.png";
+import Cart from "../assets/cart1.png";
+import Delivery from "../assets/delivery.png";
+//import BStar from "../assets/Bstar.png";
+import BStar from "../assets/Bstar.png";
+import Seven from "../assets/Seven.png";
+import Photo from "../assets/picture.png";
+import Tote from "../assets/tote.png";
+import Ticket from "../assets/tickets.png";
+import Billboard from "../assets/billboard.png";
+import Stamps from "../assets/stamp.png";
+import Wedding from "../assets/wedding.png";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
