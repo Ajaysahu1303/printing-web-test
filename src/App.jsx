@@ -20,7 +20,7 @@ function App() {
     <div>
       <Helmet><title>Vinto Printz</title></Helmet>
       
-      
+      <Navbar/>
 
       <div id='Body-routes' className="body-routes">
         <Routes location={location} key={location.pathname} >
